@@ -1,4 +1,3 @@
 # ShoppingList
-In this application the user can make a shopping list and the user can give basic information about the product. The user's list will be saved on the application via Room Database. 
+This is a simple shopping list application where an user can make list of items they would like to buy. I created this application as a class project, when I took Mobile Software Development course that was taught by Dr. PÉTER EKLER. This application consists of multiple activities, RecyclerView, Animation loading screen, and Persistence data storage (Room). Items can have the following attributes: name, description, price, status (if it has been bough yet), and category. All the items along with their attributes will be saved in the persistence data storage. Also, an user can edit and remove any item from the existing list of items. 
 
-![Alt text] (https://user-images.githubusercontent.com/26856199/72176669-d7f1db80-3419-11ea-9e55-866be0ee42e8.png "Screenshot")
